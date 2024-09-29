@@ -1,0 +1,16 @@
+# OS generated files #
+######################
+.DS_Store*
+.VolumeIcon.icns
+.fseventsd
+Icon?
+.gdb_history
+ehthumbs.db
+Thumbs.db
+# ipython files
+**/.ipynb_checkpoints
+__pycache__
+# Things specific to this project #
+###################################
+/.anaconda/
+/env/
